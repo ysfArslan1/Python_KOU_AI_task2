@@ -3,5 +3,5 @@
 verilen metinden karakterterlerin ve harflarin silinip tekrardan olusturulması istenmis
 
 Duzeltilmesi istenen metnin orjinali odev.txt belgesinde .
-test.txt den alınan metin yapılan islemler sonrasında tekrardan text.txt ye yazılır
+text.txt den alınan metin yapılan islemler sonrasında tekrardan text.txt ye yazılır
 
